@@ -2,7 +2,7 @@
 
 ##  Hello World ☀️ 
 
-[Demo](https://eloquent-shannon-1ac701.netlify.app/)
+Hosted on netlify. [Demo](https://eloquent-shannon-1ac701.netlify.app/)
 
 Progressive web app with weather api. 
 
